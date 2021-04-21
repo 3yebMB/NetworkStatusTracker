@@ -1,0 +1,2 @@
+rootProject.name = "NetworkStatusTracker"
+include ':app'
